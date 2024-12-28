@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/pavel7991/base-calculator",
+  "homepage": "https://pavel7991.github.io/base-calculator/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
